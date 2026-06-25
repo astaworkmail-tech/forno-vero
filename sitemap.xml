@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://astaworkmail-tech.github.io/forno-vero/about/</loc>
+    <lastmod>2026-06-25T22:56:29.673Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://astaworkmail-tech.github.io/forno-vero/</loc>
     <lastmod>2026-06-25T22:56:25.437Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -8,11 +13,6 @@
   <url>
     <loc>https://astaworkmail-tech.github.io/forno-vero/order/</loc>
     <lastmod>2026-06-25T22:55:00.949Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://astaworkmail-tech.github.io/forno-vero/about/</loc>
-    <lastmod>2026-06-25T22:54:48.890Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
